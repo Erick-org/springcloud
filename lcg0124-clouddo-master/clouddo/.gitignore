@@ -6,3 +6,6 @@
 /clouddo-*/mvnw.cmd
 /clouddo-*/.mvn/
 /clouddo-base/mvnw
+/clouddo-*/target
+/.project
+
